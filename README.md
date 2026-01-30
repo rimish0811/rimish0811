@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>I am a motivated B.Tech Computer Science and Engineering student from<br>Dr. A.P.J. Abdul Kalam Technical University AKTU with a strong<br>foundation in Web Development, Python programming, and Cloud<br>technologies. Passionate about developing practical software solutions, I<br>continuously strive to enhance my technical skills and contribute<br>effectively within a team environment. I am seeking an entry-level<br>opportunity where I can apply my knowledge and grow as a software<br>professional.
+I am a motivated B.Tech Computer Science and Engineering student from<br>Dr. A.P.J. Abdul Kalam Technical University AKTU with a strong<br>foundation in Web Development, Python programming, and Cloud<br>technologies. Passionate about developing practical software solutions, I<br>continuously strive to enhance my technical skills and contribute<br>effectively within a team environment. I am seeking an entry-level<br>opportunity where I can apply my knowledge and grow as a software<br>professional.
 
 
 ## 🌐 Socials:
